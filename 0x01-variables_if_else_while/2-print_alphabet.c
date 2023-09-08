@@ -8,7 +8,7 @@ int main(void)
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
-	putcher(0);
-	putcher('\n');
+	putchar(0);
+	putchar('\n');
 return (0);
 }
